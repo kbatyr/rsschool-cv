@@ -6,7 +6,7 @@
 **Discord:** @kbatyr
 ***
 ### About myself:
-Hi everyone! My name's is Batyrkhan, I'm 25 years old and from Kazakhstan, Nur-Sultan. Now I'm studying at **alem** programming school based on the international education system called [https://01-edu.org/] 01 Edu System.  
+Hi everyone! My name's is Batyrkhan, I'm 25 years old and from Kazakhstan, Nur-Sultan. Now I'm studying at **alem** programming school based on the international education system called [01 Edu System](https://01-edu.org/).  
 ***
 ### Skills and Proficiency:
 * Go
@@ -49,8 +49,8 @@ func Split(s, sep string) []string {
 ```
 ***
 ### Education:
-* [https://enu.kz/ru/] Eurasian National University, Information Technologies, 2013-2017  
-* [https://alem.school/] Alem programming school, Kazakhstan, Nur-Sultan 2021  
+* [Eurasian National University](https://enu.kz/ru/), Information Technologies, 2013-2017  
+* [Alem](https://alem.school/) programming school, Kazakhstan, Nur-Sultan 2021  
 ***
 ### Language skills:
 * Kazakh: native speaker
