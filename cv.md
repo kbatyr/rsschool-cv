@@ -1,4 +1,4 @@
-# rsschool-cv
+# [rsschool-cv](https://github.com/kbatyr/rsschool-cv)
 # Koshenov Batyrkhan
 ### Contact information:
 **Phone:** +7708 855 8216  
@@ -6,7 +6,7 @@
 **Discord:** @kbatyr
 ***
 ### About myself:
-Hi everyone! My name's is Batyrkhan, I'm 25 years old and from Kazakhstan, Nur-Sultan. Now I'm studying at **alem** programming school based on the international education system called [01 Edu System](https://01-edu.org/).  
+Hi everyone! My name is Batyrkhan, I'm 25 years old and from Kazakhstan, Nur-Sultan. Now I'm studying at **alem** programming school based on the international education system called [01 Edu System](https://01-edu.org/).  
 ***
 ### Skills and Proficiency:
 * Go
