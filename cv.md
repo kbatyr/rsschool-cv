@@ -12,9 +12,11 @@ There's nothing yet...
 * HTML5, CSS3
 * Git, Github
 * Docker
+***
 ### Code example:
-*This example implements the **split** function of standard package of Go library:*   
-``` func Split(s, sep string) []string {
+*This example implements the **split** function of Go language standard library.*  
+```
+func Split(s, sep string) []string {
 	if sep == "" {
 		for _, ch := range s {
 			res = append(res, string(ch))
@@ -44,4 +46,5 @@ There's nothing yet...
 	return res
 }
 ```
+***
 ### Education:
